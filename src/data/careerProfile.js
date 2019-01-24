@@ -1,7 +1,7 @@
 export const careerProfile = {
   sectionTitle: 'Career Profile',
   icon: null,
-  description: '<p>I\'m coding something since I was 14. In the beginning I was creating game servers for popular games, after that I started with php and created some basic apps for small-sized companies. Then I decided to train myself. And now, I have successfully finished a good many projects you can see the project details <a href="#projects">below.</a> So, may be we can work together!</p>'
+  description: "<p>I am primarily a Back End developer with experience building websites and web applications. I have professionally used PHP to build REST APIs using frameworks such as Symfony and Laravel. I also have professional experience using PHP in conjunction with HTML (and jQuery, CSS, PorstgeSQL, MySQL).</br>After 4 years of maintaining and iterating upon other people\'s (and past me\'s) code I strive to produce well architected code, clean and reviewable changes, and comprehensive test coverage.</p>"
 };
 
 export default careerProfile;

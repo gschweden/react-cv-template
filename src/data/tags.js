@@ -2,21 +2,14 @@ export const tags = {
   sectionTitle: '',
   icon: null,
   list: [
-    'Javascript',
-    'ReactJS',
-    'ReactNative',
-    'Redux',
-    'Webpack',
-    'Npm/Yarn',
     'Git',
-    'C#',
-    'ASP.NETMVC',
+    'HTML/CSS',
+    'Javascript',
+    'Jquery',
     'PHP',
-    'SOLID PRINCIPLES',
-    'XAMARIN',
-    'LINQ',
-    'N-TIER ARCHITECTURE',
-    'SOA ARCHITECTURE']
+    'python',
+    'ReactJS'
+  ]
 };
 
 export default tags;
